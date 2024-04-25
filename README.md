@@ -10,7 +10,7 @@ Copy the extracted source code folder and paste it into the XAMPP's "htdocs" dir
 Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 Create a new database naming college_project.
 Import the provided SQL file. The file is known as college_project.sql located inside the DATABASE File folder.
-Browse the Pharmacy Sales and Inventory Management System in a browser. i.e. http://localhost/college project/.
+Browse the college sign up login page in a browser. i.e. http://localhost/college project/.
 User Default email and pass:
 email: admin@gmail.com
 Password: admin
